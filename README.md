@@ -1,4 +1,4 @@
-# Project 05 | HTML and CSS | Fashion Trends
+# Project 05 | HTML and CSS | Web-3
 
 By prajwal
 
